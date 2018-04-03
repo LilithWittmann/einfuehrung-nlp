@@ -3,3 +3,5 @@ textblob
 textblob-de
 nltk
 jupyter
+numpy
+ipyleaflet
